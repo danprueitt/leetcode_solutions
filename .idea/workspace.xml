@@ -6,9 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="155fa55a-c5fb-45b5-b101-09a39a342a1e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/container_water/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/container_water/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_consec_ones_iii/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_consec_ones_iii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_sub_array_i/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_sub_array_i/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/reverse_string/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/reverse_string/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -134,7 +138,7 @@
       <updated>1664364764106</updated>
       <workItem from="1664364765562" duration="3508000" />
       <workItem from="1665383221760" duration="1459000" />
-      <workItem from="1665394329625" duration="1200000" />
+      <workItem from="1665394329625" duration="1500000" />
     </task>
     <task id="LOCAL-00001" summary="Complete 205_Isomorphic_Strings">
       <created>1664367970827</created>
@@ -151,7 +155,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete 205_Isomorphic_Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete 205_Isomorphic_Strings" />
+    <MESSAGE value="Complete algorithms related to arrays and strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete algorithms related to arrays and strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

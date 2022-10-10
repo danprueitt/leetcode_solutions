@@ -1,16 +1,9 @@
 package dprueitt.edu.container_water;
 
-public class Solution
-{
-    public static void main( String[] args )
+class Solution {
+    public int maxArea(int[] height)
     {
-        System.out.println(new Solution().maxArea( new int[]{1,8,6,2,5,4,8,3,7} ));
-    }
-
-
-    public int maxArea( int[] height )
-    {
-        int maxWater = -1;
+        int maxWater = 0;
         int left = 0;
         int right = height.length - 1;
 
@@ -19,21 +12,16 @@ public class Solution
             final int leftBar = height[left];
             final int rightBar = height[right];
             final int xAxis = right - left;
-            int thisMax;
+            final int currentArea = Math.min(leftBar, rightBar) * xAxis;
+            maxWater = Math.max(maxWater, currentArea);
 
             if( leftBar > rightBar )
             {
-                thisMax = rightBar * xAxis;
                 right--;
             }
             else
             {
-                thisMax = leftBar * xAxis;
                 left++;
-            }
-
-            if (thisMax > maxWater) {
-                maxWater = thisMax;
             }
         }
         return maxWater;
