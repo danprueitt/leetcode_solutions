@@ -1,4 +1,4 @@
-package dprueitt.edu.container_water;
+package dprueitt.edu.arrays_and_strings.container_water;
 
 class Solution {
     public int maxArea(int[] height)

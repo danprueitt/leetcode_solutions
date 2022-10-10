@@ -1,4 +1,4 @@
-package dprueitt.edu.reverse_string;
+package dprueitt.edu.arrays_and_strings.reverse_string;
 
 class Solution
 {

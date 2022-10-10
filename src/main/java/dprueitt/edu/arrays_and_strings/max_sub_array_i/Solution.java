@@ -1,4 +1,4 @@
-package dprueitt.edu.max_sub_array_i;
+package dprueitt.edu.arrays_and_strings.max_sub_array_i;
 
 public class Solution
 {

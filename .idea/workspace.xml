@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="155fa55a-c5fb-45b5-b101-09a39a342a1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/container_water/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/container_water/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_consec_ones_iii/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_consec_ones_iii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_sub_array_i/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_sub_array_i/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/reverse_string/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/reverse_string/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/min_average_dist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/min_average_dist/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/num_of_zero_filled_subarrays/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/num_of_zero_filled_subarrays/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/container_water/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/container_water/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/container_water/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/container_water/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/isomorphic_strings_205/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/isomorphic_strings_205/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/isomorphic_strings_205/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/isomorphic_strings_205/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_consec_ones_iii/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/max_consec_ones_iii/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_consec_ones_iii/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/max_consec_ones_iii/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_sub_array_i/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/max_sub_array_i/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/max_sub_array_i/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/max_sub_array_i/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/reverse_string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/reverse_string/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dprueitt/edu/reverse_string/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/reverse_string/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dprueitt/edu/isomorphic_strings_205/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dprueitt/edu/arrays_and_strings/isomorphic_strings_205/SolutionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +44,6 @@
   <component name="ProjectId" id="2FOYnIQS2tN3q67HidbRTqfi29h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -59,17 +64,34 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/isomorphic_strings_205" />
+      <recent name="$PROJECT_DIR$/src/main/java/dprueitt/edu" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="dprueitt.edu.isomorphic_strings_205" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dprueitt.edu.max_sub_array_i.Solution">
+  <component name="RunManager" selected="Application.dprueitt.edu.arrays_and_strings.min_average_dist.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dprueitt.edu.reverse_string.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dprueitt.edu.reverse_string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dprueitt.edu.arrays_and_strings.min_average_dist.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dprueitt.edu.arrays_and_strings.min_average_dist.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dprueitt.edu.arrays_and_strings.min_average_dist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,28 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.isIsomorphic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="dprueitt.edu.num_of_zero_filled_subarrays.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dprueitt.edu.num_of_zero_filled_subarrays.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dprueitt.edu.isomorphic_strings_205.*" />
+          <option name="PATTERN" value="dprueitt.edu.num_of_zero_filled_subarrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dprueitt.edu.isomorphic_strings_205" />
-      <option name="MAIN_CLASS_NAME" value="dprueitt.edu.isomorphic_strings_205.SolutionTest" />
-      <option name="METHOD_NAME" value="isIsomorphic(java.lang.String,java.lang.String,boolean)" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dprueitt.edu.arrays_and_strings.min_average_dist.Solution" />
+        <item itemvalue="Application.dprueitt.edu.num_of_zero_filled_subarrays.Solution" />
         <item itemvalue="Application.dprueitt.edu.max_sub_array_i.Solution" />
         <item itemvalue="Application.dprueitt.edu.container_water.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="JUnit.SolutionTest.isIsomorphic" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +158,7 @@
       <updated>1664364764106</updated>
       <workItem from="1664364765562" duration="3508000" />
       <workItem from="1665383221760" duration="1459000" />
-      <workItem from="1665394329625" duration="1500000" />
+      <workItem from="1665394329625" duration="7784000" />
     </task>
     <task id="LOCAL-00001" summary="Complete 205_Isomorphic_Strings">
       <created>1664367970827</created>
@@ -147,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664367970827</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Complete algorithms related to arrays and strings">
+      <created>1665395839903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665395839903</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Complete algorithms related to arrays and strings">
+      <created>1665395931503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665395931503</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,14 +196,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dprueitt/edu/reverse_string/Solution.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dprueitt/edu/max_sub_array_i/Solution.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/main/java/dprueitt/edu/arrays_and_strings/num_of_zero_filled_subarrays/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

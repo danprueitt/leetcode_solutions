@@ -1,4 +1,4 @@
-package dprueitt.edu.isomorphic_strings_205;
+package dprueitt.edu.arrays_and_strings.isomorphic_strings_205;
 
 import java.util.HashMap;
 import java.util.Map;

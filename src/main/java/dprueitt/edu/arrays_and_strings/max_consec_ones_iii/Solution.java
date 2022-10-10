@@ -1,4 +1,4 @@
-package dprueitt.edu.max_consec_ones_iii;
+package dprueitt.edu.arrays_and_strings.max_consec_ones_iii;
 
 public class Solution
 {

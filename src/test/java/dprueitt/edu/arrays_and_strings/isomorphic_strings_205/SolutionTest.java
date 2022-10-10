@@ -1,4 +1,4 @@
-package dprueitt.edu.isomorphic_strings_205;
+package dprueitt.edu.arrays_and_strings.isomorphic_strings_205;
 
 import java.util.stream.Stream;
 import org.junit.jupiter.params.ParameterizedTest;
